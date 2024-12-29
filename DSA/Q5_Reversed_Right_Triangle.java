@@ -1,13 +1,14 @@
 package DSA;
 
 import java.util.Scanner;
-public class Right_Triangle_TowardsRight {
+
+public class Q5_Reversed_Right_Triangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter Height of the right triangle: ");
+        System.out.print("Enter the height of the triangle: ");
         int height = sc.nextInt();
-        for(int i =0; i<height; i++){
-            for(int j =0; j<=i; j++){
+        for(int j =0; j<height; j++) {
+            for (int i = height; i > j; i--) {
                 System.out.print("*");
             }
             System.out.println();
