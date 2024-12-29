@@ -2,6 +2,8 @@
 
 Welcome to my Git repository! This repository is dedicated to recording and sharing my journey as I work on improving my logical thinking and problem-solving skills.
 
+**"To see all my codes check the DSA subdirectory"**
+
 ## Purpose
 
 The main objective of this repository is to:
