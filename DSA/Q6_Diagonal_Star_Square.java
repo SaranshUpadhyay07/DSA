@@ -43,6 +43,7 @@ public class Q6_Diagonal_Star_Square {
                 }
             }
         }
-        System.out.println("Invalid Valid");
+        else{
+        System.out.println("Invalid Valid");}
     }
 }
