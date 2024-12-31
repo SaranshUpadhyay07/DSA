@@ -1,7 +1,7 @@
 package DSA;
 import java.util.Scanner;
 
-public class Q3_Right_Triangle_TowardsLeft {
+public class P_Q03_Right_Triangle_TowardsLeft {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the height the of the triangle: ");

@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class Q5_Reversed_Right_Triangle {
+public class P_Q05_Reversed_Right_Triangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the height of the triangle: ");

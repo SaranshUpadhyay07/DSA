@@ -8,7 +8,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class Q6_Diagonal_Star_Square {
+public class P_Q06_Diagonal_Star_Square {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");

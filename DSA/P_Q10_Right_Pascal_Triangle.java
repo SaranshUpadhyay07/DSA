@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class Q10_Right_Pascal_Triangle {
+public class P_Q10_Right_Pascal_Triangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the length of the base: ");

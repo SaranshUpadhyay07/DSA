@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class Q7_Sand_Clock {
+public class P_Q07_Sand_Clock {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the height of sand clock: ");

@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class Q4_Mario_Big_Pyramid {
+public class P_Q04_Mario_Big_Pyramid {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the height of the Mario Big Pyramid: ");
